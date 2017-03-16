@@ -11,7 +11,7 @@
 
     <item android:id="@+id/menu_refresh"
         app:showAsAction="always"
-        android:icon ="@drawable/ic_cached">
+        android:icon ="@drawable/ic_refresh">
 
     </item>
 
