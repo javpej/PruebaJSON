@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         toolbar = (Toolbar) findViewById(R.id.Toolbar);
         setSupportActionBar(toolbar);
-        toolbar.setTitleTextColor(Color.WHITE);
+
 
     }
 
